@@ -6,7 +6,7 @@ weight = 1
 
 # Welcome
 
-This is a personal blog.
+C'est une page très personnelle.
 
 ---
 
