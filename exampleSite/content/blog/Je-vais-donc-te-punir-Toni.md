@@ -3,13 +3,12 @@ title = "Je vais donc te punir, Toni"
 date = "2025-03-05"
 description = "Je vais donc te punir, Toni"
 tags = [
-    "Esparbec",
     "Cravache",
     "punition",
 ]
 +++
 
-## Monsieur est servi / 16. La cravache - Esparbec
+###### Monsieur est servi / 16. La cravache - Esparbec
 
 – Je vais donc te punir, Toni.
 
