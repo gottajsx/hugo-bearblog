@@ -1,4 +1,4 @@
-baseURL = "https://selis.netlify.app/"
+baseURL = "https://selis.pages.dev/"
 theme = 'hugo-bearblog'
 
 title = "Seli's Blog"
