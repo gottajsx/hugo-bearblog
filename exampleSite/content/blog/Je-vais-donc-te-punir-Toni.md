@@ -8,9 +8,7 @@ tags = [
 ]
 +++
 
----
-Monsieur est servi, §16. La cravache - Esparbec
----
+["Monsieur est servi", paragraphe 16. 'La cravache' - Esparbec]()
 
 – Je vais donc te punir, Toni.
 
